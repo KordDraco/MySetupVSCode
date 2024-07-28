@@ -144,4 +144,4 @@ Aqui está todos os estilos que utilizo para meu VSCode, deixa mais bonito e mai
 
 ## 📌 Nota:
 Se você gostou, por favor, não se esqueça de me seguir pelas redes sociais e até meu GitHub. E se puder, deixe uma <code>Estrelinha ⭐</code>, ficarei feliz com isso.<br>
-Obs: De vez em quando, eu irei mudar algumas configurações, mas por enquanto é isso! Esperovque gostem :>
+Obs: De vez em quando, eu irei mudar algumas configurações, mas por enquanto é isso! Espero que gostem :>
